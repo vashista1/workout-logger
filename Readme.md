@@ -11,7 +11,7 @@ Disclaimer:
 This app is not tested by health care professionals. This app is merely there to provide helpful reminders and keep track of users workout routine.
 
 App is still under development! 
-Projected go deploy in December 2019!
+Projected go deploy in December 2020 May!
 
 ### Sample:
 <img width="1038" alt="Screen Shot 2019-10-03 at 1 35 36 PM" src="https://user-images.githubusercontent.com/10883557/66150226-b3988e80-e5e2-11e9-94d9-50fccc61a3ff.png">
